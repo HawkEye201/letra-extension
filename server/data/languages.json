@@ -74,5 +74,9 @@
   "thai": {
     "flag": "twa-thailand-flag",
     "voice": "Thai Female"
-  }
+  },
+    "English": {
+        "flag": "twa-UK-flag",
+        "voice": "UK Male"
+    }
 }
